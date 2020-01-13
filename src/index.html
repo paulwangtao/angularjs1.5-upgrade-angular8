@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Boss</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body > 
+    <div id="message" ng-controller="MainCtrl as mainCtrl">
+      {{ mainCtrl.message }}
+    </div>
+
+    <app-root>loading</app-root>
+
+<!-- <script src="assets/js/angular.min.js" type="text/javascript"></script> -->
+<!-- <script src="assets/js/app.module.js" type="text/javascript"></script> -->
+ <script src="environment/context-${env}.js" type="text/javascript"></script>
+</body>
+</html>
