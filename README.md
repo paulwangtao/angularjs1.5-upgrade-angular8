@@ -14,7 +14,7 @@ demo -
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Boss</title>
+  <title>demo</title>
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -137,7 +137,7 @@ src --
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Boss</title>
+  <title>demo</title>
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
