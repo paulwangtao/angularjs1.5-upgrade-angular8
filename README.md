@@ -224,8 +224,12 @@ app.directive(
 执行：ng serve  至此 anguarjs已经可以和angular8 兼容了，恭喜你
 
 参考文献：https://angular.cn/guide/upgrade 官网给出了参考
+
         https://www.cnblogs.com/sghy/p/9150346.html  很有参考价值，但从传统模式看这篇文章至少我当时还有很多疑惑，且不太适用最新版本，
         我卡在  const m = angular.module('AngularJsModule', []); 在ts中引用会存在问题
+
+
+
 希望本人能帮助大家升级应用有所有帮助
 wangtaovipone@sina.com 阿paul
 
