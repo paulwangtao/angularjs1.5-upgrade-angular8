@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
     "@babel/plugin-transform-modules-commonjs": "^7.7.5",
-    "angular": "^1.7.9",
+    "angular": "^1.8.3",
     "require.js": "^1.0.0",
     "rxjs": "~6.4.0",
     "systemjs": "^4.0.0",
